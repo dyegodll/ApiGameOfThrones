@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ApiGameOfThrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ApiGameOfThrones.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ApiGameOfThrones.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ApiGameOfThrones.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\bin\Debug\net8.0\ApiGameOfThrones.exe
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\bin\Debug\net8.0\ApiGameOfThrones.deps.json
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\bin\Debug\net8.0\ApiGameOfThrones.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\bin\Debug\net8.0\ApiGameOfThrones.dll
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\bin\Debug\net8.0\ApiGameOfThrones.pdb
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ApiGameOfThrones.dll
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\refint\ApiGameOfThrones.dll
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ApiGameOfThrones.pdb
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ApiGameOfThrones.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\ApiGameOfThrones\ApiGameOfThrones\obj\Debug\net8.0\ref\ApiGameOfThrones.dll
